@@ -38,7 +38,7 @@ i3不是很好配置，对新手不是很友好，又为了备份自己的配置
 
 图片
 
-![深度截图_20190403171801](/home/onism/Pictures/Screenshot/深度截图_20190403171801.png)
+![1](./screenshot/1.png)
 
 ### i3-gaps
 
